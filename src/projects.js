@@ -1,0 +1,62 @@
+export const projects = [
+  {
+    id: "01",
+    title: "Adaptive Architecture",
+    tagline: "Responsive kinetic structures inspired by pinecone seed scale thermodynamics.",
+    category: "BIO-SPATIAL SYSTEMS",
+    year: "2026",
+    client: "Verna Pavilion & Helion Bio",
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=85",
+    secondaryImage: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1000&q=80",
+    description: "Buildings that breathe and adjust porosity based on solar radiation and ambient humidity. Aurelis developed hydro-active façade panels that expand and contract organically without electric actuators.",
+    naturalInspiration: "Hygroscopic pinecone scaling mechanism",
+    keyImpact: "42% passive HVAC energy reduction across 12,000 m² installation",
+    technologies: ["Hydro-Active Polymers", "Generative Aerodynamics", "Spatial Thermal Sensors"],
+    fullStory: "Modern built environments consume unprecedented energy for climate stabilization. Adaptive Architecture reverses this paradigm by embedding botanical responsiveness directly into structural materials. Through microscopic moisture channels, the facade passively alters structural geometry as humidity fluctuates."
+  },
+  {
+    id: "02",
+    title: "Living Interfaces",
+    tagline: "Fluid, non-linear digital interactions modeled on mycelial nutrient transport networks.",
+    category: "ORGANIC SOFTWARE",
+    year: "2025",
+    client: "Aurelis Core Lab",
+    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1400&q=85",
+    secondaryImage: "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1000&q=80",
+    description: "Moving beyond rigid rectangular grids into fluid visual topologies. Living Interfaces anticipate user intent through continuous spatial learning rather than static button hierarchies.",
+    naturalInspiration: "Mycelial hyphae pathfinding and adaptive node networking",
+    keyImpact: "68% reduction in interaction friction; intuitive zero-latency navigation",
+    technologies: ["Node Topology Engine", "Biomimetic UX Shaders", "Predictive Intent Modeling"],
+    fullStory: "Traditional digital interfaces force human cognition to adapt to machine logic. Living Interfaces flip this dynamic: user interaction paths flow like natural streams, creating organic visual feedback and dynamic information topology."
+  },
+  {
+    id: "03",
+    title: "Intelligent Mobility",
+    tagline: "Autonomous swarm navigation inspired by avian murmuration and school schooling fluid dynamics.",
+    category: "SWARM ROBOTICS",
+    year: "2026",
+    client: "Aeris Transit Labs",
+    image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=85",
+    secondaryImage: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+    description: "A decentralized movement framework where autonomous craft synchronize seamlessly without centralized traffic controllers, producing zero latency collision avoidance.",
+    naturalInspiration: "Starlings murmuration dynamics and marine swarm behavior",
+    keyImpact: "Zero gridlock in simulated high-density urban transit nodes",
+    technologies: ["Decentralized Mesh Kinematics", "Acoustic Proximity Sensors", "Swarm Fluid Physics"],
+    fullStory: "When thousands of birds shift directions in a fraction of a second, no single leader commands them. By modeling local peer-to-peer visual vectors, Intelligent Mobility unlocks frictionless transit systems for next-generation urban mobility."
+  },
+  {
+    id: "04",
+    title: "Future Materials",
+    tagline: "Self-healing bio-composites utilizing fungal chitin and calcium silicate mineralization.",
+    category: "MATTER & COMPUTATION",
+    year: "2025",
+    client: "BioForm Alliance",
+    image: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1400&q=85",
+    secondaryImage: "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1000&q=80",
+    description: "Structural composites that repair micro-fractures through internal ambient carbon absorption. Designed to replace structural concrete while sequestering atmospheric carbon.",
+    naturalInspiration: "Coral reef calcification and chitinous skeletal matrix",
+    keyImpact: "Net negative carbon footprint with 3x tensile strength of standard timber",
+    technologies: ["Mycelium Bio-binders", "Carbon-Sequestration Mineralization", "Organic Structural Lattice"],
+    fullStory: "Instead of manufacturing materials through extreme heat and chemical synthesis, Future Materials grow under ambient conditions, growing stronger over time through exposure to atmospheric moisture and CO2."
+  }
+];
